@@ -73,7 +73,7 @@ If you encounter problems:
 If you find this script helpful and want to support RAK's work:
 
 ☕ **Buy Me A Coffee**
-- **Phone/WhatsApp:** +237 691 005 371
+- **Phone/WhatsApp:** +237 675 67 46 34
 - Help support the continued development and maintenance of this tool
 
 ---
@@ -88,7 +88,7 @@ If you find this script helpful and want to support RAK's work:
 
 ## Disclaimer
 
-This script is provided for legitimate activation purposes only. Ensure you have proper licensing rights before using any activation method. The authors are not responsible for misuse.
+This script is provided for legitimate activation purposes only. Ensure you have proper licensing rights before using any activation method. The authors are not responsible for misuse ... For sure .
 
 ---
 
